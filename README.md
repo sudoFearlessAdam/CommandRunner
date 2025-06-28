@@ -19,4 +19,7 @@ Step 6: Now type the command you want to run and then click "Execute Command".
 # Game link:
 Roblox Game link: https://www.roblox.com/games/92708716850408/Command-Runner-READ-DSC
 
-#
+# Contacts:
+Discord: fearlessadam
+roblox: qwertyintel
+Twitter (Known as X): FearlesAdam
