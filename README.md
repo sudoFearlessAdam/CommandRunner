@@ -16,4 +16,7 @@ Step 5: Play the roblox game and enter the IP Address the script shows (The publ
 
 Step 6: Now type the command you want to run and then click "Execute Command".
 
+# Game link:
 Roblox Game link: https://www.roblox.com/games/92708716850408/Command-Runner-READ-DSC
+
+#
