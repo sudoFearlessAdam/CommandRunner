@@ -12,6 +12,8 @@ Step 3: Run the setup.py file then after that script finishes, run the main file
 
 Step 4: This will create a new file called "pwd.txt". Open it and type a random password. (DO NOT TYPE/SHARE THIS ANYWHERE ELSE UNLESS ASKED BY THE ROBLOX GAME!)
 
-Step 5: Play the roblox game and enter the IP Address the script shows and the password you set earlier.
+Step 5: Play the roblox game and enter the IP Address the script shows (The public IP.) and the password you set earlier.
 
 Step 6: Now type the command you want to run and then click "Execute Command".
+
+Roblox Game link: https://www.roblox.com/games/92708716850408/Command-Runner-READ-DSC
